@@ -1,0 +1,37 @@
+/*header*/
+header{
+ text-align: center;
+}
+
+
+
+
+/*navigation*/
+nav #menu {
+    border-top: 1px solid #FFA4FF;
+    border-bottom: 1px solid #FFA4FF;
+   
+    }
+  
+      nav #menu li {
+        display: inline-block;
+        padding: 20px 35px;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+        nav #menu li:hover {
+       
+        }
+  
+      nav #menu a {
+        text-decoration: none;
+        color: #686568;
+        transition: all .9s;
+        -webkit-transition: all .9s;
+        -moz-transition: all .9s;
+        -o-transition: all .9s;
+      }
+        nav #menu li:hover a {
+        text-decoration: none;
+        color: #A39DA2;
+        }
