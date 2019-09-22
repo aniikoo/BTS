@@ -1,9 +1,15 @@
-/*header*/
-header{
- text-align: center;
+body{
+    margin: 1;
 }
 
-
+/*header*/
+header{
+    background-color: lightpink;
+    text-align: center;
+}
+header img{
+    border-radius: 150px;
+}
 
 
 /*navigation*/
